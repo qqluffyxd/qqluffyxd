@@ -1,6 +1,6 @@
 - 🧑‍💻 I’m interested in creating computer game and creating others programm for mobile and Desktop
 - 🌱 I’m currently learning first language is c++ and source ue5
-- 💞️ I’m looking to collaborate on Epic Games
+- 💞️ I’m looking to collaborate on Pavel Durov
 - 📫 How to reach me: telegram @qqluffyxd
 - 😄 Pronouns: ...)
 - ⚡ Fun fact: i'm newbie, but i'm purposeful; i do not know much English <3
